@@ -3,7 +3,8 @@
 int g_timer = 0;
 
 
-void handller(void){
+void handller(void)
+{
 
 g_timer ++;
 }
