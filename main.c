@@ -1,4 +1,8 @@
-int main(void){
+#include <stdio.h>
 
-return 0;
+int main(void)
+{
+	printf("narumiya");
+
+	return 0;
 }
