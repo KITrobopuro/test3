@@ -10,7 +10,7 @@ int main(void)
 	std::cout << "Ryosuke Kubota" << std::endl;
 =======
 	printf("imai");
-//branch test
+//branch test???
 <<<<<<< HEAD
 	printf("Yamamoto");
 =======
