@@ -10,12 +10,15 @@ g_timer ++;
 }
 int main(void)
 {
+	
 	int flag = 0;
 	printf("narumiya");
 <<<<<<< HEAD
 	std::cout << "Ryosuke Kubota" << std::endl;
 =======
-	printf("imai");
+	while(1){
+		printf("imai\r\n");
+	}
 //branch test???
 <<<<<<< HEAD
 	printf("Yamamoto");
