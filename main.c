@@ -2,6 +2,12 @@
 
 int g_timer = 0;
 
+
+void handller(void)
+{
+
+g_timer ++;
+}
 int main(void)
 {
 	int flag = 0;
