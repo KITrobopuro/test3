@@ -5,7 +5,7 @@ int g_timer = 0;
 
 void handller(void)
 {
-
+int distance = 0;
 g_timer ++;
 }
 int main(void)
