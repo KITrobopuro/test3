@@ -27,7 +27,7 @@ int main(void)
 >> >> >> > 8940fb73fdc540d7b418ada730474cb6b9ce9c05
 
 
-std::cout << "a!!!!!!!!!" << std::endl;
+std::cout << "a!!!!!!!!!" << std::endl; std::cout << "a!!!!!!!!!" << std::endl;
 	return 0;
 
 
